@@ -3,7 +3,6 @@
 A professional, introductory-syllabus project containing ten Python case studies based on the supplied Activity-Based Learning case-study sheet and sample format.my name is Mohammad Arshad Baig. I am from AIML section-1-First Year(1-1). 
 
 # Selected Case Studies
----
 
 **1. University Scholarship Allocation**  
 Design a system that evaluates applicants using aggregate marks, subject-wise minimum scores, attendance, and income criteria, ranks eligible students, and resolves ties using predefined rules.
